@@ -1,0 +1,44 @@
+html{ 
+    background-color: #EEF5FF;
+}
+
+hr{
+    border-color: #EEF5FF;
+    opacity: 0
+
+}
+
+body{
+    font-family:sans-serif;
+}
+
+h1{
+    color: #176B87;
+}
+
+h2{
+    background-color: #86B6F6;
+    color: #176B87;
+}
+
+h3{
+    background-color: #86B6F6;
+    color: #176B87;
+}
+
+#hobbies{
+    color: #176B87;
+   font-weight: bold;
+}
+
+#contact{
+    color: #176B87;
+   font-weight: bold;
+}
+
+a{
+    color:black
+}
+footer{
+    color: #176B87;
+}
